@@ -1,1 +1,5 @@
-
+hackthissite basic solutions
+Basic 1 - The password is available as a comment in the source of the web page.
+Basic 2 - The password is blank. The index page gives the clue.
+Basic 3 - The password is stored in the php script, which can be seen in the hidden attribute.
+Basic 4 - The hidden attribute sends the password to a email. Change the email address and get the password.
