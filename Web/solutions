@@ -4,4 +4,9 @@ Basic 2 - The password is blank. The index page gives the clue.
 Basic 3 - The password is stored in the php script, which can be seen in the hidden attribute.
 Basic 4 - The hidden attribute sends the password to a email. Change the email address and get the password.
 Basic 5 - Similar to Basic 4
-
+Basic 6 - When you enter AAA, it gives ABC. The position value of each character is added to the ASCII code of the character. 
+          The passsword can be decrypted by subtracting the position value from the ciphertext ASCII.
+Basic 7 - Enter " ;ls " in the command box. The code outputs calender along with the files in the directory. Password is present 
+          in k1kh31b1n55h.php
+Basic 8 - SSI injection. Inject <!--#exec cmd="ls .."-->. This shows all the files in the parent directory. Password is present 
+          in au12ha39vc.php
